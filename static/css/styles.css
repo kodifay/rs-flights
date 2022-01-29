@@ -1,0 +1,48 @@
+body {
+    background-color: #e1f4f3;
+    text-align: center;
+    background-image: url("https://wallpaper.dog/large/10792416.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-size: 1450px 1050px;
+
+}
+
+.navbar {
+    background-color: ;
+    font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+
+
+}
+
+a {
+    color: #00FFFF;
+}
+
+.navbar-brand{
+    color: #F0F8FF;
+}
+
+a:hover {
+    color: #f0f0f0;
+}
+
+
+.card {
+background-color: rgba(245, 245, 245, 0.4);
+}
+
+.card-header, .card-footer {
+opacity: 1
+}
+
+.navbar-header{
+    position: relative;
+    left: 0px;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+}
+
+
